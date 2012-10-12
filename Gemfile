@@ -36,3 +36,8 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'minitest'
+gem 'minitest-reporters'
+
+gem 'ruby-prof'
